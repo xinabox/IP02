@@ -1,5 +1,5 @@
 # ☒CHIP IP02
-<img src="extras/IP03 V1.0.1.JPG" width="35%" height="auto" align="right">
+<img src="extras/IP02 V1.0.1.JPG" width="35%" height="auto" align="right">
 Advanced USB Programming Interface (FT232R).
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/IP02/).
