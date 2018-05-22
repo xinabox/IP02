@@ -13,7 +13,7 @@ The IP02 has two switches so that you can switch between DTE and DCE. The other 
 
 More information on the FT232R can be found in the [datasheet](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf).
 
-Programable ☒CHIP:
+#### Programable ☒CHIPs:
 * CC01
 * CR01, CR02 and CR03
 * CR11, CR12 and CR13
